@@ -39,7 +39,7 @@ public class LuceneIndexer
 	public static void main(String[] args) 
 	{
 	//Creating Index Directory
-		
+           System.out.println("Hello");		
 	   File indexDir = new File(INDEX_DIR);
 		
 		if (!indexDir.exists()) 
