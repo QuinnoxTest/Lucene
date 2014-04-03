@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/apache-cassandra-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache-cassandra-clientutil-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache-cassandra-thrift-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/cassandra-jdbc-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-r08.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-all-1.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/libthrift-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-facet-4.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queries-4.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-4.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
