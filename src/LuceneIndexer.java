@@ -23,7 +23,7 @@ public class LuceneIndexer
 	public static String property = System.getProperty("user.home");
     public static String INDEX_DIR= property + "\\Indexes";
 	private static final String JDBC_DRIVER = "org.apache.cassandra.cql.jdbc.CassandraDriver";
-	private static final String CONNECTION_URL = "jdbc:cassandra://10.20.3.163:9160/caerus_jdbcdriver?version=3.0.0";
+	private static final String CONNECTION_URL = "jdbc:cassandra://10.20.4.106:9160/caerus_jdbcdriver?version=3.0.0";
 	private static final String USER_NAME = "";
 	private static final String PASSWORD = "";
 	
